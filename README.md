@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 <h3 align="center">Crafting AI solutions | Data-driven insights | Innovating with machine learning</h3>
 
+<img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-haris&label=Profile%20views&color=0e75b6&style=flat" alt="ai-haris" /> </p>
 
