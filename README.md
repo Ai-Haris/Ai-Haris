@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 <h3 align="center">Crafting AI solutions | Data-driven insights | Innovating with machine learning</h3>
 
@@ -35,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/almayyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almayyit" height="30" width="40" /></a>
+<a href="https://twitter.com/almayyit" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif)" alt="almayyit" height="30" width="40" /></a>
 <a href="https://instagram.com/mayyit.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayyit.ai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ai gen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ai gen" height="30" width="40" /></a>
 </p>
